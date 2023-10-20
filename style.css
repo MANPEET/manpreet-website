@@ -328,7 +328,6 @@ button.normal:hover {
 #sm-banner {
   display: flex;
   justify-content: space-between;
-  flex-wrap: wrap;
 
 }
 
