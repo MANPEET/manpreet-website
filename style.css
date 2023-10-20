@@ -334,7 +334,7 @@ button.normal:hover {
 
 #sm-banner .banner-box {
   background: url("img/banner/b17.jpg");
-  min-width: 650px;
+  min-width: 580px;
   height: 50vh;
   display: flex;
   flex-direction: column;
@@ -349,6 +349,7 @@ button.normal:hover {
 #sm-banner .banner-box2 {
   background: url("img/banner/b10.jpg");
   background-size: cover;
+  background-position: center;
 }
 
 #sm-banner .banner-box h4 {
